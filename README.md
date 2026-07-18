@@ -1,7 +1,9 @@
 # Metodología con IA para mantenimiento predictivo en turbomaquinaria
 
 **Universidad Internacional de La Rioja (UNIR)**
+
 **Máster de Formación Permanente en Inteligencia Artificial en Procesos Industriales y de Manufactura**
+
 **Autores:** Sergio Martinez, Cristhian Diaz, Manuel A. Rodriguez
 
 ---
