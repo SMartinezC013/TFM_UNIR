@@ -9,7 +9,7 @@
 ---
 
 ##  Resumen / Abstract
-Este proyecto evalúa la viabilidad de modelos de Inteligencia Artificial (IA) para la detección temprana de fallos y la estimación de la Vida Útil Restante (RUL) en turbomaquinaria. 
+Este proyecto evalúa la viabilidad de modelos de Inteligencia Artificial (IA) para la detección temprana de fallos y la estimación de la Vida Útil Restante (RUL) en turbinas de aviacion e industriales. 
 
 La metodología desarrolla un enfoque dual que contrasta dos aproximaciones analíticas:
 *   Modelos de regresión lineal y no lineal (Random Forest) para evaluar trayectorias de degradación continua utilizando el dataset aeronáutico C-MAPSS.
